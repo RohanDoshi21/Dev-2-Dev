@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/RohanDoshi21/Dev2Dev-Prisma
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RohanDoshi21/Dev2Dev-Frontend
+[submodule "testing"]
+	path = testing
+	url = https://github.com/RohanDoshi21/Dev2Dev-Testing
